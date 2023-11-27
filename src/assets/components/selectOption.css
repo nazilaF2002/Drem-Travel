@@ -1,0 +1,18 @@
+.language-select {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  .language-dropdown {
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: white;
+    cursor: pointer;
+  }
+  
+  /* Optional hover effect */
+  .language-dropdown:hover {
+    border-color: #999;
+  }
